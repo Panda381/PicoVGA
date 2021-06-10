@@ -1,0 +1,22 @@
+@echo off
+RaspPicoRle 01.bmp 01.cpp Img01 -1
+RaspPicoRle 02.bmp 02.cpp Img02 -1
+RaspPicoRle 03.bmp 03.cpp Img03 -1
+RaspPicoRle 04.bmp 04.cpp Img04 -1
+RaspPicoRle 05.bmp 05.cpp Img05 -1
+RaspPicoRle 06.bmp 06.cpp Img06 -1
+RaspPicoRle 07.bmp 07.cpp Img07 -1
+RaspPicoRle 08.bmp 08.cpp Img08 -1
+RaspPicoRle 09.bmp 09.cpp Img09 -1
+RaspPicoRle 10.bmp 10.cpp Img10 -1
+RaspPicoRle 11.bmp 11.cpp Img11 -1
+RaspPicoRle 12.bmp 12.cpp Img12 -1
+RaspPicoRle 13.bmp 13.cpp Img13 -1
+RaspPicoRle 14.bmp 14.cpp Img14 -1
+RaspPicoRle 15.bmp 15.cpp Img15 -1
+RaspPicoRle 16.bmp 16.cpp Img16 -1
+RaspPicoRle 17.bmp 17.cpp Img17 -1
+RaspPicoRle 18.bmp 18.cpp Img18 -1
+RaspPicoRle 19.bmp 19.cpp Img19 -1
+RaspPicoRle 20.bmp 20.cpp Img20 -1
+RaspPicoRle 22.bmp 22.cpp Img22 -1

@@ -1,0 +1,14 @@
+8-bit image:
+Save images with 332 palletes (256 colors), indexed color, BMP 8-bit, no compress, switch ON flip row order
+
+4-bit image:
+Save images with 16-color palettes, indexed color, save as BMP 4-bit, no compress, switch ON flip row order
+
+2-bit image:
+Save images with 4-color palettes, indexed color, save as BMP 4-bit (BMP does not support 2-bit mode), no compress, switch ON flip row order
+
+1-bit image:
+Save images with 2-color palettes, indexed color, save as BMP 1-bit, no compress, switch ON flip row order
+
+To generate image:
+  RaspPicoImg input.bmp output.c name

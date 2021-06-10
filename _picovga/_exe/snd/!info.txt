@@ -1,0 +1,4 @@
+Sound must be in format: PCM, mono, 8-bit unsigned with middle at 128, sound rate 22050 Hz
+
+To generate sound:
+  RaspPicoSnd input.bmp output.c name

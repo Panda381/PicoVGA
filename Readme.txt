@@ -3,6 +3,8 @@ PicoVGA - VGA/TV display on Raspberry Pico
 ------------------------------------------
 Miroslav Nemecek, panda38.sweb.cz, Panda38@seznam.cz
 
+project: http://www.breatharian.eu/hw/picovga/index_en.html
+
 How to install:
 - Install compiler gcc-arm-none-eabi-10-2020 into folder C:\ARM10
 - Unpack this package into some folder

@@ -873,7 +873,7 @@ void Video(u8 dev, u8 res, u8 form, u8* buf, const void* buf2 /* = FontBoldB8x16
 
 	case FORM_MTEXT16: // mono text with font 8x16
 		ScreenSegmMText(g, buf, buf2, 16, COL_BLACK, COL_WHITE, w/8);
-		PrintSetup(buf, w/8, h/8, w/8);
+		PrintSetup(buf, w/8, h/16, w/8);
 		PrintClear();
 		break;
 

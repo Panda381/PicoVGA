@@ -5,6 +5,10 @@ Miroslav Nemecek, panda38.sweb.cz, Panda38@seznam.cz
 
 project: http://www.breatharian.eu/hw/picovga/index_en.html
 
+Update note: You can use Wayne Venables' project to compile PicoVGA
+in Linux. You can also find there the addition of the VSYNC signal
+to the library. https://github.com/codaris/picovga-cmake
+
 How to install:
 - Install compiler gcc-arm-none-eabi-10-2020 into folder C:\ARM10
 - Unpack this package into some folder

@@ -6,8 +6,8 @@ Miroslav Nemecek, panda38.sweb.cz, Panda38@seznam.cz
 project: https://www.breatharian.eu/hw/picovga/index_en.html
 
 Update note: You can use Wayne Venables' project to compile PicoVGA
-for Pico W in Linux. You can also find there the addition of the VSYNC signal
-to the library (look for VGA_GPIO_VSYNC in vga.cpp).
+for Pico W in Linux. You can also find there the addition of the VSYNC
+signal to the library (look for VGA_GPIO_VSYNC in vga.cpp).
 https://github.com/codaris/picovga-cmake
 
 How to install:
